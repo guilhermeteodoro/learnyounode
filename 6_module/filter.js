@@ -4,7 +4,7 @@ const path = require('path');
 const filter = function (dir, fileExtension, callback) {
   fs.readdir(dir, (err, data) => {
     if (err) {
-      callback(err);
+      return callback(err);
     }
 
     list = data.filter((item) => path.extname(item) === `.${fileExtension}`);
