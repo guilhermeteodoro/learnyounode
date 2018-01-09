@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/guilhermeteodoro/learnyounode/issues"
   },
-  "homepage": "https://github.com/guilhermeteodoro/learnyounode#readme"
+  "homepage": "https://github.com/guilhermeteodoro/learnyounode#readme",
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
 }
