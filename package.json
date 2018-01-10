@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/guilhermeteodoro/learnyounode#readme",
   "dependencies": {
-    "bl": "^1.2.1"
+    "bl": "^1.2.1",
+    "strftime": "^0.10.0"
   }
 }
