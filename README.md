@@ -10,6 +10,12 @@ Install learnyounode npm package:
 npm install -g learnyounode
 ```
 
+and install dependencies
+
+```bash
+npm install
+```
+
 ## Usage
 
 To execute the exercises
